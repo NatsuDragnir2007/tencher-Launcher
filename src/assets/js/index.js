@@ -1,5 +1,5 @@
 /**
- * @author Luuxis
+ * @author Natsu_Dragnir_
  * @license CC-BY-NC 4.0 - https://creativecommons.org/licenses/by-nc/4.0
  */
 const { ipcRenderer } = require('electron');
